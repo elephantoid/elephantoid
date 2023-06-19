@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @elephantoid
 - 👀 I’m interested in Data science and ML architecture
-- 🌱 I’m currently learning openCV
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently working on bioinfomatics field.
+- 💞️ I’m looking to collaborate on other scientists
 - 📫 How to reach me ...
 
 <!---
